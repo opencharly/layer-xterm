@@ -1,7 +1,5 @@
-version: 2026.232.0520
 xterm:
     candy:
-        version: 2026.144.1443
         description: |
             xterm classic X terminal emulator
             Installs xterm, the reference X terminal emulator (usable under
