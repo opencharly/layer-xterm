@@ -50,6 +50,5 @@ registered.
 
 - Owning skill: `/charly-selkies:xterm`
 - `/charly-check:wl` — the `wl:` verb's exec / focus / close / xprop / geometry methods
-- `/charly-selkies:selkies-desktop-layer` — desktop metalayer that includes this candy
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder
 - [`opencharly/opencharly`](https://github.com/opencharly/opencharly) — the umbrella
