@@ -56,9 +56,6 @@ With xterm installed, users can launch it to enable full XWayland testing.
 
 - `selkies-desktop` metalayer
 
-## Used In Boxes
-
-
 ## Cross-References
 
 - `/charly-check:wl` — the `wl:` verb's exec / focus / close / xprop / geometry methods
